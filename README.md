@@ -14,6 +14,7 @@ __Disclaimer:__ The project includes images that are under the rights of DVV Ent
 - [Deployment](#deployment)
 - [Customization](#customization)
 - [Copyright-Disclaimer](#copyright-disclaimer)
+- [Contribute](#contribute)
 - [Acknowledgement](#acknowledgement)
 ## Features
 
