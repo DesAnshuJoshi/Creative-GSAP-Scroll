@@ -54,7 +54,7 @@ cd Creative-GSAP-Scroll
 ```
 
 3. Open the index.html file in a web browser to view the project.
-## Screenshots
+## Screenshot
 
 ![Web Screenshot](https://github.com/DesAnshuJoshi/Creative-GSAP-Scroll/assets/126374769/e6599e57-d49e-4b9c-8481-c205089eeb51)
 
