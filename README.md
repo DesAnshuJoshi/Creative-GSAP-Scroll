@@ -80,7 +80,8 @@ Feel free to experiment with different designs, animations, and layouts to perso
 ## Copyright Disclaimer
 
 The images used in this project are the property of DVV Entertainment and PEN Studios India. These images are used for demonstration purposes only and should not be used or distributed without proper authorization from the respective copyright holders. Make sure to obtain the necessary permissions and rights if you intend to use or distribute the images.
-##Contribute
+
+## Contribute
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request. Make sure to follow the project's coding conventions and style.
 ## Acknowledgements
